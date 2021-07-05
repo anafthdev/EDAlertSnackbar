@@ -1,0 +1,3 @@
+rootProject.name = "EDSnackbar"
+include ':app'
+include ':EDSnackbar'
