@@ -1,4 +1,4 @@
-package com.eunidev.library.edsnackbar
+package com.github.EunidevStudio.edalertsnackbar
 
 import android.annotation.SuppressLint
 import android.content.Context
