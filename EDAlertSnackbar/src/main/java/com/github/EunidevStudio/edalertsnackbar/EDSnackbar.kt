@@ -136,7 +136,7 @@ public class EDAlertSnackbar {
 	fun iconEnabled(enable: Boolean) = if (enable) imageIcon.visibility = View.VISIBLE else imageIcon.visibility = View.GONE
 	
 	/** Set Snackbar Message Text Color **/
-	fun setMessageTextColor(color: Int) = actionButton.setTextColor(color)
+	fun setMessageTextColor(color: Int) = tvMessage.setTextColor(color)
 	
 	/** Set Snackbar Action Text Color **/
 	fun setActionTextColor(color: Int) = actionButton.setTextColor(color)
