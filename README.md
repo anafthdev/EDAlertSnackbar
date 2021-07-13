@@ -1,5 +1,7 @@
 # EDAlertSnackbar
 
+![Sample Image](https://github.com/EunidevStudio/EDAlertSnackbar/blob/master/Image/EDAlertSnackbar.jpg?raw=true)
+
 1. Add the JitPack repository to your build file
 ```
 allprojects {
